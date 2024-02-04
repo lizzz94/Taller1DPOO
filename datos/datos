@@ -1,0 +1,13 @@
+tipo:HashGas:500:1000.0
+tipo:SuperGas:600:2000.0
+tipo:GasGas:700:3000.0
+tipo:MegaGas:800:4000.0
+surtidor:Tara:HashGas:0.0:SuperGas:0.0:GasGas:0.0:MegaGas:0.0
+surtidor:Cherry:HashGas:0.0:SuperGas:0.0:GasGas:0.0:MegaGas:0.0
+surtidor:Cherry:HashGas:0.0:SuperGas:0.0:GasGas:0.0:MegaGas:0.0
+surtidor:Cherry:HashGas:0.0:SuperGas:0.0:GasGas:0.0:MegaGas:0.0
+empleado:Ronaldo:0
+empleado:Cherry:0
+empleado:Juan:0
+empleado:Tara:0
+empleado:Messi:0
